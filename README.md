@@ -2,7 +2,8 @@
 
 <!--
 Hi 👋 I'm Hossam 
-🚀 Aspiring Full Stack Developer
+
+# Enterprise IT & Full-Stack Engineer Portfolio
 
 🛠 Tech:
 - JavaScript, HTML, CSS
